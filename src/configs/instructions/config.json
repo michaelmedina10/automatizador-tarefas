@@ -1,0 +1,16 @@
+{
+  "ativado": "desligado",
+  "executarEm": "5s",
+  "coletores": [
+    {
+      "nome": "coletor_a",
+      "ativado": false,
+      "intervalo": "20s"
+    },
+    {
+      "nome": "coletor_b",
+      "ativado": true,
+      "intervalo": "5s"
+    }
+  ]
+}

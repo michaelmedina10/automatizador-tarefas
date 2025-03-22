@@ -1,0 +1,9 @@
+ativado: false
+executarEm: 5m
+Coletores:
+  - nome: alloy
+    ativado: false
+    intervalo: constante
+  - nome: onboardingTMF
+    ativado: true
+    intervalo: 5m

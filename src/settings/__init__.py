@@ -1,0 +1,1 @@
+API_STATUS = "http://apistatus.com.br/status"
